@@ -2,7 +2,7 @@
                             const Sequelize = require('sequelize');
 
                             //2                     //3           //4         /5          //6
-                            const sequelize = new Sequelize('log', 'postgres', 'password', {
+                            const sequelize = new Sequelize('workoutlog', 'postgres', 'password', {
                                 host: 'localhost',
                                 dialect: 'postgres'
                             });
