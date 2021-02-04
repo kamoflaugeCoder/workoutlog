@@ -25,6 +25,8 @@ Endpoint | Verb | Description
 ![Log_create](https://user-images.githubusercontent.com/73150004/106664516-2d43e200-6573-11eb-81f6-412225f4b3a0.PNG)
 
 
+### 6. /log/:id | GET | Gets individual logs by id for an individual user.
+![GET_workoutlog_](https://user-images.githubusercontent.com/73150004/106921768-56cb4d80-66da-11eb-9ce0-b31201ff2c82.PNG)
 
 
 
